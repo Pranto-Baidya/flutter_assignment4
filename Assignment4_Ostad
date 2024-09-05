@@ -1,8 +1,5 @@
 //Please note : The image in the 3rd container is not loading, To make it load properly i used " --web-renderer html "
 
-
-
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
